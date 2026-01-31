@@ -12,4 +12,4 @@ gcc src/guessing.c -o guessing //compiling
 ```
 
 You should get something like this:  
-![alt text](img/terminal_print)
+![alt text](img/terminal_print.png)
